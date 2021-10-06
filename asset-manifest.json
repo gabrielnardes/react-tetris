@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reacttetris/static/css/main.1f5800c3.chunk.css",
-    "main.js": "/reacttetris/static/js/main.cd27a7e8.chunk.js",
-    "main.js.map": "/reacttetris/static/js/main.cd27a7e8.chunk.js.map",
-    "runtime-main.js": "/reacttetris/static/js/runtime-main.4eb8f3be.js",
-    "runtime-main.js.map": "/reacttetris/static/js/runtime-main.4eb8f3be.js.map",
-    "static/js/2.f71e5c83.chunk.js": "/reacttetris/static/js/2.f71e5c83.chunk.js",
-    "static/js/2.f71e5c83.chunk.js.map": "/reacttetris/static/js/2.f71e5c83.chunk.js.map",
-    "static/js/3.ca217a9d.chunk.js": "/reacttetris/static/js/3.ca217a9d.chunk.js",
-    "static/js/3.ca217a9d.chunk.js.map": "/reacttetris/static/js/3.ca217a9d.chunk.js.map",
-    "index.html": "/reacttetris/index.html",
-    "static/css/main.1f5800c3.chunk.css.map": "/reacttetris/static/css/main.1f5800c3.chunk.css.map",
-    "static/js/2.f71e5c83.chunk.js.LICENSE.txt": "/reacttetris/static/js/2.f71e5c83.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/reacttetris/static/media/Pixel-LCD-7.63d9c151.woff",
-    "static/media/bg.d63cfd51.png": "/reacttetris/static/media/bg.d63cfd51.png"
+    "main.css": "/tutorial-freecodecamp-reacttetris/static/css/main.19187f6b.chunk.css",
+    "main.js": "/tutorial-freecodecamp-reacttetris/static/js/main.cd27a7e8.chunk.js",
+    "main.js.map": "/tutorial-freecodecamp-reacttetris/static/js/main.cd27a7e8.chunk.js.map",
+    "runtime-main.js": "/tutorial-freecodecamp-reacttetris/static/js/runtime-main.656330b2.js",
+    "runtime-main.js.map": "/tutorial-freecodecamp-reacttetris/static/js/runtime-main.656330b2.js.map",
+    "static/js/2.54d4204c.chunk.js": "/tutorial-freecodecamp-reacttetris/static/js/2.54d4204c.chunk.js",
+    "static/js/2.54d4204c.chunk.js.map": "/tutorial-freecodecamp-reacttetris/static/js/2.54d4204c.chunk.js.map",
+    "static/js/3.ca217a9d.chunk.js": "/tutorial-freecodecamp-reacttetris/static/js/3.ca217a9d.chunk.js",
+    "static/js/3.ca217a9d.chunk.js.map": "/tutorial-freecodecamp-reacttetris/static/js/3.ca217a9d.chunk.js.map",
+    "index.html": "/tutorial-freecodecamp-reacttetris/index.html",
+    "static/css/main.19187f6b.chunk.css.map": "/tutorial-freecodecamp-reacttetris/static/css/main.19187f6b.chunk.css.map",
+    "static/js/2.54d4204c.chunk.js.LICENSE.txt": "/tutorial-freecodecamp-reacttetris/static/js/2.54d4204c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tutorial-freecodecamp-reacttetris/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.d63cfd51.png": "/tutorial-freecodecamp-reacttetris/static/media/bg.d63cfd51.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4eb8f3be.js",
-    "static/js/2.f71e5c83.chunk.js",
-    "static/css/main.1f5800c3.chunk.css",
+    "static/js/runtime-main.656330b2.js",
+    "static/js/2.54d4204c.chunk.js",
+    "static/css/main.19187f6b.chunk.css",
     "static/js/main.cd27a7e8.chunk.js"
   ]
 }
